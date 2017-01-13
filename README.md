@@ -1,2 +1,2 @@
 # myrpack
-Please refer to "RESOLV3D_TUTORIAL.pdf" for additional information.
+Details will be made available in near future.
