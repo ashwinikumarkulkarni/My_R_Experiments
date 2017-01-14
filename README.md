@@ -1,2 +1,2 @@
-# myrpack
-Details will be made available in near future.
+# My_R_Experiments
+R code snippets
