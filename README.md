@@ -12,5 +12,9 @@ Press 'ctrl + z' which will temporarily suspend the command, enter 'bg' to push 
 `bg`
 This will start executing the command in backgroud
 
+**Rename file using pattern matching**
+rename '_Splenium_' '_SPL_' *.gz
+
+
 
 ## Useful R code snippets
